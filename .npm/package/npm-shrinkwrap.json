@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "faker2": {
+      "version": "0.5.0"
+    },
+    "randexp": {
+      "version": "0.4.0",
+      "dependencies": {
+        "discontinuous-range": {
+          "version": "1.0.0"
+        },
+        "ret": {
+          "version": "0.1.10"
+        }
+      }
+    }
+  }
+}
